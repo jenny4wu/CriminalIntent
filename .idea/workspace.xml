@@ -11,10 +11,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cd9225f-5c62-4adb-9c5a-cda1d1348b6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_crime_severe.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jenny/android/criminalintent/Crime.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jenny/android/criminalintent/Crime.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jenny/android/criminalintent/CrimeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jenny/android/criminalintent/CrimeFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jenny/android/criminalintent/CrimeListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jenny/android/criminalintent/CrimeListFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jenny/android/criminalintent/CrimeListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jenny/android/criminalintent/CrimeListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item_crime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_crime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item_crime_severe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_crime_severe.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,25 +169,29 @@
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
     <state x="255" y="297" key="AndroidCreateResourceFileDialog/0.23.1792.1025@0.23.1792.1025" timestamp="1620931979182" />
-    <state width="1291" height="279" key="GridCell.Tab.0.bottom" timestamp="1620932608291">
+    <state width="1298" height="240" key="GridCell.Tab.0.bottom" timestamp="1620937636202">
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
-    <state width="1291" height="279" key="GridCell.Tab.0.bottom/0.23.1792.1025@0.23.1792.1025" timestamp="1620932608291" />
-    <state width="1291" height="279" key="GridCell.Tab.0.center" timestamp="1620932608290">
+    <state width="1298" height="240" key="GridCell.Tab.0.bottom/0.23.1792.1025@0.23.1792.1025" timestamp="1620937636202" />
+    <state width="1298" height="240" key="GridCell.Tab.0.center" timestamp="1620937636201">
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
-    <state width="1291" height="279" key="GridCell.Tab.0.center/0.23.1792.1025@0.23.1792.1025" timestamp="1620932608290" />
-    <state width="1291" height="279" key="GridCell.Tab.0.left" timestamp="1620932608289">
+    <state width="1298" height="240" key="GridCell.Tab.0.center/0.23.1792.1025@0.23.1792.1025" timestamp="1620937636201" />
+    <state width="1298" height="240" key="GridCell.Tab.0.left" timestamp="1620937636201">
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
-    <state width="1291" height="279" key="GridCell.Tab.0.left/0.23.1792.1025@0.23.1792.1025" timestamp="1620932608289" />
-    <state width="1291" height="279" key="GridCell.Tab.0.right" timestamp="1620932608291">
+    <state width="1298" height="240" key="GridCell.Tab.0.left/0.23.1792.1025@0.23.1792.1025" timestamp="1620937636201" />
+    <state width="1298" height="240" key="GridCell.Tab.0.right" timestamp="1620937636201">
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
-    <state width="1291" height="279" key="GridCell.Tab.0.right/0.23.1792.1025@0.23.1792.1025" timestamp="1620932608291" />
-    <state x="351" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1620931869384">
+    <state width="1298" height="240" key="GridCell.Tab.0.right/0.23.1792.1025@0.23.1792.1025" timestamp="1620937636201" />
+    <state x="363" y="290" width="615" height="522" key="find.popup" timestamp="1620938620021">
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
-    <state x="351" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1792.1025@0.23.1792.1025" timestamp="1620931869384" />
+    <state x="363" y="290" width="615" height="522" key="find.popup/0.23.1792.1025@0.23.1792.1025" timestamp="1620938620021" />
+    <state x="351" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1620938278808">
+      <screen x="0" y="23" width="1792" height="1025" />
+    </state>
+    <state x="351" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1792.1025@0.23.1792.1025" timestamp="1620938278808" />
   </component>
 </project>
